@@ -1,0 +1,26 @@
+{
+  "name": "wutang-name-gen",
+  "version": "1.0.0",
+  "description": "Wutang name generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "wutang clan name generator working"
+  },
+  "repository": {
+    "type": "git",
+    "url": "express-wutang"
+  },
+  "keywords": [
+    "Wutang",
+    "Clan",
+    "Name",
+    "Generator",
+    "Express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
